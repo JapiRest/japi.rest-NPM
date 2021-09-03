@@ -1,6 +1,6 @@
 {
   "name": "japi.rest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An easier way to interact with japi.rest",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JapiRest/japi.rest-NPM.git"
+    "url": "git+https://github.com/JapiRest/npm.git"
   },
   "keywords": [
     "japi.rest",
@@ -23,7 +23,7 @@
   "author": "DanPlayz0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JapiRest/japi.rest-NPM/issues"
+    "url": "https://github.com/JapiRest/npm/issues"
   },
   "homepage": "https://docs.japi.rest",
   "dependencies": {
