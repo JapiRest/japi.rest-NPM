@@ -1,6 +1,6 @@
 {
   "name": "japi.rest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An easier way to interact with japi.rest",
   "main": "src/index.js",
   "scripts": {

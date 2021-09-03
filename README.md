@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-npm install discord-moment
+npm install japi.rest
 ```
 
 ## Example
@@ -25,7 +25,7 @@ japiRest.discord.getUser('209796601357533184').then(user => console.log(user));
 |:-------------:|------------------------------|------------------------------|
 | `deviantart` | [DeviantArt](https://www.deviantart.com/) | getTopics |
 | `discord` | [Discord](https://discord.com/) | getUser, getInvite, getTemplate, getApplication |
-| `meta` | JAPI - Meta Fetcher | get |
+| `meta` | [Meta Fetcher](https://cards-dev.twitter.com/validator) | get |
 | `mywaifulist` | [MyWaifuList](https://mywaifulist.moe/) | getWaifu, getWaifuRandom, searchSeries, getSeries, topTierWaifus, mostPopular, topTrash, vTubers, seasonalBestWaifus, seasonalWorstWaifus, seasonalPopularWaifus |  
 | `pcpartpicker` | [PCPartPicker](https://pcpartpicker.com/) | getList |
 | `presence` | [JAPI Presence](https://docs.japi.rest/#japi-presence) | get |

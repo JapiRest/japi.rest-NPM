@@ -4,7 +4,7 @@ const japiRest = new JAPIRest('JAPI.MjM0NDczMDk0OTUxNTIwMDQ5OA==.oc8.tkaoG3ZD1aY
 const endpointLinks = {
   'deviantart': '[DeviantArt](https://www.deviantart.com/)',
   'discord': '[Discord](https://discord.com/)',
-  'meta': 'JAPI - Meta Fetcher',
+  'meta': '[Meta Fetcher](https://cards-dev.twitter.com/validator)',
   'mywaifulist': '[MyWaifuList](https://mywaifulist.moe/)',
   'pcpartpicker': '[PCPartPicker](https://pcpartpicker.com/)',
   'presence': '[JAPI Presence](https://docs.japi.rest/#japi-presence)',
