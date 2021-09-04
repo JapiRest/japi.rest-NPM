@@ -32,3 +32,4 @@ japiRest.discord.getUser('209796601357533184').then(user => console.log(user));
 | `presence` | [JAPI Presence](https://docs.japi.rest/#japi-presence) | get |
 | `tiktok` | [TikTok](https://tiktok.com) | getCreator |
 | `wikihow` | [WikiHow](https://wikihow.com/) | search, info |
+http://docs.japi.rest/
