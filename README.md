@@ -27,6 +27,8 @@ japiRest.discord.getUser('209796601357533184').then(user => console.log(user));
 | `discord` | [Discord](https://discord.com/) | getUser, getInvite, getTemplate, getApplication |
 | `meta` | [Meta Fetcher](https://cards-dev.twitter.com/validator) | get |
 | `mywaifulist` | [MyWaifuList](https://mywaifulist.moe/) | getWaifu, getWaifuRandom, searchSeries, getSeries, topTierWaifus, mostPopular, topTrash, vTubers, seasonalBestWaifus, seasonalWorstWaifus, seasonalPopularWaifus |  
+| `patreon` | [Patreon](https://patreon.com) | getCreator |
 | `pcpartpicker` | [PCPartPicker](https://pcpartpicker.com/) | getList |
 | `presence` | [JAPI Presence](https://docs.japi.rest/#japi-presence) | get |
+| `tiktok` | [TikTok](https://tiktok.com) | getCreator |
 | `wikihow` | [WikiHow](https://wikihow.com/) | search, info |

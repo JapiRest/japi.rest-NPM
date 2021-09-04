@@ -9,6 +9,8 @@ const endpointLinks = {
   'pcpartpicker': '[PCPartPicker](https://pcpartpicker.com/)',
   'presence': '[JAPI Presence](https://docs.japi.rest/#japi-presence)',
   'wikihow': '[WikiHow](https://wikihow.com/)',
+  'patreon': '[Patreon](https://patreon.com)',
+  'tiktok': '[TikTok](https://tiktok.com)',
   // 'reddit': '[Reddit](https://www.reddit.com/)',
   // 'twitter': '[Twitter](https://twitter.com/)',
   // 'youtube': '[YouTube](https://www.youtube.com/)',
