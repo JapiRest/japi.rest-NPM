@@ -1,5 +1,6 @@
 [![downloadsBadge](https://img.shields.io/npm/dt/japi.rest?style=for-the-badge)](https://npmjs.com/japi.rest)
 [![versionBadge](https://img.shields.io/npm/v/japi.rest?style=for-the-badge)](https://npmjs.com/japi.rest)
+
 # JAPI.rest
 
 ## Installation
